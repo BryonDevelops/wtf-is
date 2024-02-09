@@ -1,4 +1,4 @@
-vim-motions:
+# vim-motions:
 
 Definition:
  Word motions let you jump from word to word in either direction (from left to right or right to left). As such, they allow you to move faster than the basic horizontal motions h and l.
